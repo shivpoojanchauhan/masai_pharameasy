@@ -1,1 +1,1 @@
-# masai_pharameasy
+# masai_pharmaeasy
